@@ -7,7 +7,7 @@ name: Oluwabukola Baiyewu
 
 location: Lagos, Nigria
 
-💀 mostly working on private repositories
+💀 I mostly work on private repositories
 
 education:
   [
